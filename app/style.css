@@ -91,4 +91,5 @@ body {
     border-radius: 10px;
     border: none;
     background: none;
+    cursor: pointer;
 }
